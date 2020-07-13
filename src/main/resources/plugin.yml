@@ -1,0 +1,8 @@
+main: de.jeff_media.EventLogger.Main
+name: EventLogger
+version: 4.1.1
+api-version: 1.13
+description: Logs called events and what plugins cancelled those
+author: mfnalex
+prefix: EventLogger
+database: false
